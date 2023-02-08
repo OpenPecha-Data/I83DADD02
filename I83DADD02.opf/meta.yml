@@ -1,0 +1,16 @@
+id: I83DADD02
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:59:55.254052
+last_modified: 2023-02-08 14:59:55.254188
+source_metadata:
+  title: 'BA: Proto-BA (Buddhanāmanirdeśa)'
+  language: zh
+bases:
+  '8010':
+    base_file: 8010.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
